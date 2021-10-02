@@ -1,2 +1,2 @@
-from .predict import predict
-predict()
+from .predict import main
+main()

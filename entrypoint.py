@@ -1,2 +1,2 @@
-from ng import predict
+from ng_whistles import predict
 predict.predict()
