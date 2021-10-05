@@ -13,7 +13,7 @@ setup(name='ng_whistles',
           'numpy==1.18.5',
           'numba==0.48.0',
           'SoundFile==0.10.3.post1',
-          'tensorflow==2.3.0',
+          'tensorflow==2.3.4',
           'librosa==0.6.3',
           'buschwerkzeug @ git+https://github.com/atomfried/buschwerkzeug'
           ],
