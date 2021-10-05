@@ -18,4 +18,5 @@ setup(name='ng_whistles',
           'librosa==0.6.3',
           'buschwerkzeug @ git+https://github.com/atomfried/buschwerkzeug'
           ],
+      include_package_data=True,
       zip_safe=False)

@@ -37,7 +37,7 @@ Build a standalone executable like so:
    make
    ```
 The executable file is created in the directory `dist`.
-If your building in a virtualenv missing module issues might be fixed by using
+If you're building in a virtualenv, missing module issues might be fixed by using
    ```sh
    make with_virtualenv
    ```
