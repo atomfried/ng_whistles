@@ -10,10 +10,11 @@ setup(name='ng_whistles',
       install_requires = [
           'click==8.0.1',
           'pandas==1.3.1',
-          'numpy==1.18.5',
+          #'numpy==1.18.5',
+          'numpy',
           'numba==0.48.0',
           'SoundFile==0.10.3.post1',
-          'tensorflow==2.3.4',
+          'tensorflow==2.6.0',
           'librosa==0.6.3',
           'buschwerkzeug @ git+https://github.com/atomfried/buschwerkzeug'
           ],
